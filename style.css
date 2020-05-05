@@ -1,0 +1,16 @@
+.container-fluid{
+    background-color: rgb(243, 188, 6);
+}
+.team-heading {
+    background-image: url(../Week9/images/team.PNG);
+    background-position: top;
+}
+
+.text-center {
+    color: rgb(15, 15, 15);
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    opacity: 0.8;
+   }
