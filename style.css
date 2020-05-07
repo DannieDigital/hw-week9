@@ -2,7 +2,7 @@
     background-color: rgb(243, 188, 6);
 }
 .team-heading {
-    background-image: url(../Week9/images/team.PNG);
+    background-image: url(./images/team.PNG);
     background-position: top;
 }
 
@@ -14,3 +14,17 @@
     font-size: 50px;
     opacity: 0.8;
    }
+
+  .card {
+      border-bottom: none;
+  }
+
+  .card-title {
+      text-align: center;
+    
+  }
+
+  .card-header {
+    background-color: rgb(243, 188, 6);
+    color: white;
+  }
