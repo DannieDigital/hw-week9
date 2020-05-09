@@ -20,7 +20,7 @@
 * [Application](#application)
 ---
 ### About
-###### The employee generator will provide manager the ability to add new employee by input and view all entries via the web application.
+###### The employee generator will provide managers the ability to add new employees by input and view all entries via the web application.
 ---
 ### How to Use
 ###### 1. Run app as a Node CLI to gather information about each employee
@@ -33,6 +33,7 @@
 ---
 ### Tests
 ###### Jest
+![](images/test.JPG)
 ---
 ### Any Questions?
 ###### Please email contributors
